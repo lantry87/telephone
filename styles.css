@@ -1,0 +1,21 @@
+table, tr, td {
+  border: 1px solid black;
+}
+
+table {
+  width: 90%;
+  height: 600px;
+}
+
+td {
+  width: 30%;
+  height: 200px;
+}
+
+.box {
+  width: 70px;
+  height: 70px;
+  position: relative;
+  margin: 0 auto;
+  background-color: black;
+}
